@@ -2,6 +2,8 @@
 
 Static, dependency-free website for ATRIUM MTL.
 
+Live site: <https://espace-mtl.pages.dev>
+
 ## Project structure
 
 - `index.html` contains the page markup, styles, and interactions.
